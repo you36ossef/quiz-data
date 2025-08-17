@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which element is used to get highlighted text in HTML5?",
+    "answer_1": "<u>",
+    "answer_2": "<mark>",
+    "answer_3": "<highlight>",
+    "answer_4": "<b>",
+    "right_answer": "<mark>"
+  },
+  {
+    "title": "Which of the following is not a HTML5 tag?",
+    "answer_1": "<track>",
+    "answer_2": "<video>",
+    "answer_3": "<slider>",
+    "answer_4": "<source>",
+    "right_answer": "<slider>"
+  },
+  {
+    "title": "What is the use of <hr/> tag in HTML?",
+    "answer_1": "For making content appearance italics",
+    "answer_2": "To create vertical rule between sections",
+    "answer_3": "To create a line break",
+    "answer_4": "To create horizontal rule between sections",
+    "right_answer": "To create horizontal rule between sections"
+  },
+  {
+    "title": "Which attribute specifies a unique alphanumeric identifier to be associated with an element?",
+    "answer_1": "type",
+    "answer_2": "article",
+    "answer_3": "id",
+    "answer_4": "class",
+    "right_answer": "id"
+  },
+  {
+    "title": "HTML stands for __________",
+    "answer_1": "HyperText Markup Language",
+    "answer_2": "HyperText Machine Language",
+    "answer_3": "HyperText Marking Language",
+    "answer_4": " HighText Marking Language",
+    "right_answer": "HyperText Markup Language"
+  },
+  {
+    "title": "What is the correct syntax of doctype in HTML5?",
+    "answer_1": "</doctype html>",
+    "answer_2": "<doctype html>",
+    "answer_3": "<doctype html!>",
+    "answer_4": "<!doctype html>",
+    "right_answer": "<!doctype html>"
+  },
+  {
+    "title": "Which of the following tag is used for inserting the largest heading in HTML?",
+    "answer_1": "head",
+    "answer_2": "<h1>",
+    "answer_3": "<h6>",
+    "answer_4": " heading",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "In which part of the HTML metadata is contained?",
+    "answer_1": "head tag",
+    "answer_2": "title tag",
+    "answer_3": "html tag",
+    "answer_4": "body tag",
+    "right_answer": "head tag"
+  },
+  {
+    "title": "Which of the following elements in HTML5 defines video or movie content?",
+    "answer_1": "<audio>",
+    "answer_2": "<movie>",
+    "answer_3": "<video>",
+    "answer_4": "<media>",
+    "right_answer": "<video>"
+  },
+  {
+    "title": "How can you make a numbered list?",
+    "answer_1": "<dl>",
+    "answer_2": "<ol>",
+    "answer_3": "<ul>",
+    "answer_4": "<list>",
+    "right_answer": "<ol>"
+  }
+]
